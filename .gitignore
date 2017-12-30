@@ -1,0 +1,11 @@
+# pyenv
+.python-version
+
+# virtualenv
+venv/
+
+# IDE
+.idea/
+
+# Python
+*.pyc
